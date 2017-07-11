@@ -1,5 +1,5 @@
-name = Custom Stools Plugin
-description = Custom Stools Plugin to test task
+name = Custom Ctools Plugin
+description = Custom Ctools Plugin to test task
 core = 7.x
 package = Chaos tool suite
 dependencies[] = ctools
